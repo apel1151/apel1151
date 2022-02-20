@@ -49,7 +49,7 @@
 
 <a href="https://github.com/apel2021">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=apel2021&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apel2021&theme=buefy&layout=compact" />
+  <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apel2021&theme=buefy&layout=compact" />
 </a>
 
 <br/>
