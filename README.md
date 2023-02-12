@@ -3,8 +3,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Software Engineering at Yunnan University, China.
-- 💼 &nbsp; Working as a Software Developer in a company located at Saudi Arabia. Also I work on online marketplace like upwork and fiverr.
+- 🎓 &nbsp; Completed Bachelor degree on Software Engineering at Yunnan University, China.
+- 💼 &nbsp; Working as a Software Developer in Flora System Limited located at Dhaka Bangladesh.
 - 🌱 &nbsp; Learning more about Database system design, data structure and algorithm, project management.
 - ✍️ &nbsp; Writing blog post and articles on different topics. 
 - 🤾‍♂️ &nbsp; I like to play basketball and cricket. Sometimes I go to play in my free time.
