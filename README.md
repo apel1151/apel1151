@@ -1,6 +1,6 @@
 <h2> Hello there! I am Apel Mahmud.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 👨🏻‍💻 &nbsp;About Me </h3> 
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Completed Bachelor degree on Software Engineering at Yunnan University, China.
