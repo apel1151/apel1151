@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Completed Bachelor degree on Software Engineering at Yunnan University, China.
-- 💼 &nbsp; Working as a Software Developer in Flora System Limited located at Dhaka Bangladesh.
+- 💼 &nbsp; Working as Customer Support Assistant at Flora System Limited located at Dhaka Bangladesh.
 - 🌱 &nbsp; Learning more about Database system design, data structure and algorithm, project management.
 - ✍️ &nbsp; Writing blog post and articles on different topics. 
 - 🤾‍♂️ &nbsp; I like to play basketball and cricket. Sometimes I go to play in my free time.
