@@ -51,8 +51,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.instagram.com/apel_1151/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Apel%20Mahmud-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/apel1151/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Apel%20Mahmud-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.linkedin.com/in/apel1151"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Apel%20Mahmud-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/apel_1151/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Apel%20Mahmud-blue?style=flat-square&logo=instagram"></a>
 <a href="apelmahmud1151@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-apelmahmud1151@gmail.com-blue?style=flat-square&logo=gmail"></a>
 <a href="https://www.facebook.com/apel.mahmud.1971"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Apel%20Mahmud-blue?style=flat-square&logo=facebook"></a>
 </p>
