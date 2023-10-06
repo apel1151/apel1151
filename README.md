@@ -47,7 +47,7 @@
 
 
 <br/>
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=apel1151)](https://github.com/apel1151/github-readme-stats)
+![GitHub top language](https://img.shields.io/github/languages/top/apel1151/repository)
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
