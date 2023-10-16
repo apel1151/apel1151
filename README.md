@@ -2,14 +2,13 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3> 
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies and developing new web applications.
 - 🎓 &nbsp; Completed Bachelor degree on Software Engineering at Yunnan University, China.
-- 💼 &nbsp; Working as Customer Support Assistant at Flora System Limited located at Dhaka Bangladesh.
-- 🌱 &nbsp; Learning more about Database system design, data structure and algorithm, project management.
+- 💼 &nbsp; Working as Customer Support Engineer at Flora System Limited located at Dhaka Bangladesh.
+- 🌱 &nbsp; Learning React.js, Node.js, Mongodb, to become Full-stack Web Application.
 - ✍️ &nbsp; Writing blog post and articles on different topics. 
-- 🤾‍♂️ &nbsp; I like to play basketball and cricket. Sometimes I go to play in my free time.
-- 🏅 &nbsp; Skating, gardening, and travelling are my hobbies.
-- 💪 &nbsp; Driving, playing piano.
+- 🤾‍♂️ &nbsp; I love to play basketball and skate on my free time.
+- 🏅 &nbsp; Gardening and Travelling are my hobbies.
 
 <img alt="Night Coding" src="https://i.pinimg.com/originals/d0/c6/04/d0c60459431b6ffaecf92fc902ca996d.gif" height="200px" align="right"/>
 
