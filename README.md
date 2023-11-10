@@ -1,4 +1,9 @@
-# Hi, I'm Apel Mahmud.<br> A passionate Software Developer
+<p align="center">
+  Hi, I'm Apel Mahmud
+</p>
+<p align="center">
+  A passionate Software Developer
+</p>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3> 
 
