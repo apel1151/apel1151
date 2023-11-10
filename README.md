@@ -1,6 +1,5 @@
 # <h1 align="center">Hi, I'm Apel Mahmud</h1>
-
-# <h2 align="center">A passionate Software Developer</h2>
+<h2 align="center">A passionate Software Developer</h2>
 
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3> 
