@@ -1,10 +1,6 @@
-<p align="center">
-   <span style="font-size: 60px; font-weight: bold; text-align: center;">Hi, I'm Apel Mahmud</span>
-</p>
+<h1 align="center">Hi, I'm Apel Mahmud</h1>
 
-<p align="center">
-  <span style="font-size: 60px; font-weight: bold; text-align: center;">A passionate Software Developer</span>
-</p>
+<h2 align="center">A passionate Software Developer</h2>
 
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3> 
