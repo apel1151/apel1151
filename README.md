@@ -1,4 +1,4 @@
-                                                                           # Hello there! I am Apel Mahmud. A passinate Software Developer
+# Hi, I'm Apel Mahmud. A passionate Software Developer
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3> 
 
