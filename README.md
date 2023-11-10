@@ -1,7 +1,7 @@
-<p align="center">
+<p align="center" font-size = "40px">
   Hi, I'm Apel Mahmud
 </p>
-<p align="center">
+<p align="center" font-size = "40px">
   A passionate Software Developer
 </p>
 
