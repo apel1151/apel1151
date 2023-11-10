@@ -1,8 +1,8 @@
 <p align="center">
-   <span style="font-size: 40px; font-weight: bold; align: center"> Hi, I'm Apel Mahmud </span> 
+   <span style="font-size: 80px; font-weight: bold; align: center"> Hi, I'm Apel Mahmud </span> 
 </p>
 <p align= "center">
-  <span  style="font-size: 40px; font-weight: bold; align: center"> A passionate Software Developer </span>
+  <span  style="font-size: 80px; font-weight: bold; align: center"> A passionate Software Developer </span>
 </p>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3> 
