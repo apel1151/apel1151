@@ -1,4 +1,5 @@
-#####<h1 align="center" style="font-size: 10em;">Hi, I'm Apel Mahmud</h1>
+# Hi, I'm Apel Mahmud
+
 <h2 align="center">A passionate Software Developer</h2>
 
 
