@@ -1,6 +1,6 @@
 
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Hi%2C+I'm+Apel+Mahmud;Passionate+Software+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Apel+Mahmud;Passionate+Software+Developer)](https://git.io/typing-svg)
 
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3> 
