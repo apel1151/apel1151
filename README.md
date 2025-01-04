@@ -1,7 +1,6 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Apel+Mahmud" alt="Typing SVG" />
-  <h2 align="center">A passionate Software Developer</h2>
-</h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Apel+Mahmud;Passionate+Software+Developer)](https://git.io/typing-svg)
+
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3> 
 
