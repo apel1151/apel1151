@@ -1,4 +1,4 @@
- <h1 align="center">Hi, I'm Apel Mahmud</h1>
+<h1 align="center" style="font-size: 3em;">Hi, I'm Apel Mahmud</h1>
 <h2 align="center">A passionate Software Developer</h2>
 
 
