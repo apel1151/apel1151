@@ -1,9 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Apel+Mahmud" alt="Typing SVG" />
+  <h2 align="center">A passionate Software Developer</h2>
 </p>
-
-<h2 align="center">A passionate Software Developer</h2>
-
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3> 
 
