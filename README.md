@@ -3,17 +3,17 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=3000&pause=500&center=true&width=1000&height=100&lines=Hi%2C+I'm+Apel+Mahmud;Passionate+Software+Developer)](https://git.io/typing-svg)
 
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3> 
+<h2> 👨🏻‍💻 &nbsp;About Me </h2> 
 
-- 🤔 &nbsp; Exploring new technologies and developing new web applications.
-- 🎓 &nbsp; Completed Bachelor degree on Software Engineering at Yunnan University, China.
-- 💼 &nbsp; Working as Customer Support Engineer at Flora System Limited located at Dhaka Bangladesh.
-- 🌱 &nbsp; Learning React.js, Node.js, Mongodb, to become Full-stack Web Application.
-- ✍️ &nbsp; Writing blog post and articles on different topics. 
-- 🤾‍♂️ &nbsp; I love to play basketball and skate on my free time.
-- 🏅 &nbsp; Gardening and Travelling are my hobbies.
+ 🤔 &nbsp; Exploring new technologies and developing new web applications.
+ 🎓 &nbsp; Completed Bachelor degree on Software Engineering at Yunnan University, China.
+ 💼 &nbsp; Working as Customer Support Engineer at Flora System Limited located at Dhaka Bangladesh.
+ 🌱 &nbsp; Learning React.js, Node.js, Mongodb, to become Full-stack Web Application.
+ ✍️ &nbsp; Writing blog post and articles on different topics. 
+ 🤾‍♂️ &nbsp; I love to play basketball and skate on my free time.
+ 🏅 &nbsp; Gardening and Travelling are my hobbies.
 
-<h3> 🛠 &nbsp;Technology Stack</h3>
+<h2> 🛠 &nbsp;Technology Stack</h2>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
