@@ -4,7 +4,9 @@
 
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2> 
-### Software Engineering graduate skilled in JavaScript and React framework demonstrated expertise improving workflow efficiency and driving user engagement. Proficent in Responsive design and also experienced with backend technology.  
+<p style="font-size: 3em;>
+ Software Engineering graduate skilled in JavaScript and React framework demonstrated expertise improving workflow efficiency and driving user engagement. Proficent in Responsive design and also experienced with backend technology. 
+</p> 
 
 <h2> 🛠 &nbsp;Technology Stack</h2>
 
