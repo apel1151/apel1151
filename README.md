@@ -1,6 +1,4 @@
-![Hi, I'm Apel Mahmud](images/custom-heading.png)
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,I'm,Apel,Mahmud+line+of+text)](https://git.io/typing-svg)
 <h2 align="center">A passionate Software Developer</h2>
 
 
