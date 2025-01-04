@@ -1,4 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Apel+Mahmud)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Apel+Mahmud" alt="Typing SVG" />
+</p>
+
 <h2 align="center">A passionate Software Developer</h2>
 
 
