@@ -13,8 +13,6 @@
 - 🤾‍♂️ &nbsp; I love to play basketball and skate on my free time.
 - 🏅 &nbsp; Gardening and Travelling are my hobbies.
 
-<img alt="Night Coding" src="https://i.pinimg.com/originals/d0/c6/04/d0c60459431b6ffaecf92fc902ca996d.gif" height="200px" align="right"/>
-
 <h3> 🛠 &nbsp;Technology Stack</h3>
 
 - 💻 &nbsp;
