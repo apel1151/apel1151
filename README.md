@@ -4,14 +4,8 @@
 
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2> 
+###Software Engineering graduate skilled in JavaScript and React framework demonstrated expertise improving workflow efficiency and driving user engagement. 
 
- 🤔 &nbsp; Exploring new technologies and developing new web applications.
- 🎓 &nbsp; Completed Bachelor degree on Software Engineering at Yunnan University, China.
- 💼 &nbsp; Working as Customer Support Engineer at Flora System Limited located at Dhaka Bangladesh.
- 🌱 &nbsp; Learning React.js, Node.js, Mongodb, to become Full-stack Web Application.
- ✍️ &nbsp; Writing blog post and articles on different topics. 
- 🤾‍♂️ &nbsp; I love to play basketball and skate on my free time.
- 🏅 &nbsp; Gardening and Travelling are my hobbies.
 
 <h2> 🛠 &nbsp;Technology Stack</h2>
 
