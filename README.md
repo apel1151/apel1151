@@ -56,12 +56,8 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=apel1151&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
 <br/>
-
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
 <p align="center">
 <a href="https://www.linkedin.com/in/apel1151"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Apel%20Mahmud-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/apel_1151/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Apel%20Mahmud-blue?style=flat-square&logo=instagram"></a>
