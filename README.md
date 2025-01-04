@@ -3,12 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=3000&pause=500&center=true&width=1000&height=100&lines=Hi%2C+I'm+Apel+Mahmud;Passionate+Software+Developer)](https://git.io/typing-svg)
 
 
-<h2> 👨🏻‍💻 &nbsp;About Me </h2> 
-<p>
+<h1> 👨🏻‍💻 &nbsp;About Me </h1> 
+<h3>
  Software Engineering graduate skilled in JavaScript and React framework demonstrated expertise improving workflow efficiency and driving user engagement. Proficent in Responsive design and also experienced with backend technology. 
-</p> 
+</h3> 
 
-<h2> 🛠 &nbsp;Technology Stack</h2>
+<h1> 🛠 &nbsp;Technology Stack</h1>
 
  💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
