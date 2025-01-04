@@ -1,4 +1,4 @@
-
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=2000&pause=1000&vCenter=true&width=1060&lines=Hi%2C+I'm+Apel+Mahmud;Passionate+Software+Developer)](https://git.io/typing-svg)
 
@@ -69,3 +69,4 @@
 <a href="apelmahmud1151@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-apelmahmud1151@gmail.com-blue?style=flat-square&logo=gmail"></a>
 <a href="https://www.facebook.com/apel1151"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Apel%20Mahmud-blue?style=flat-square&logo=facebook"></a>
 </p>
+</div>
