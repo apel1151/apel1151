@@ -8,7 +8,7 @@
  Software Engineering graduate skilled in JavaScript and React framework demonstrated expertise improving workflow efficiency and driving user engagement. Proficent in Responsive design and also experienced with backend technology. 
 </h3> 
 
-<h1 style="color:skyblue;">🛠 &nbsp;Technology Stack</h1>
+<img src="https://via.placeholder.com/350x70.png?text=%F0%9F%9B%A0+%E2%80%82Technology+Stack&bg=white&color=skyblue" alt="🛠 Technology Stack">
 
  💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
